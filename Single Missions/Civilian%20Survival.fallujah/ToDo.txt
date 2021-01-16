@@ -18,6 +18,6 @@ Finishing Touches:
 	add more mortar effects
 	update ambient battle sounds to be louder and more hectic
 	Make Faiza and friends the same for every playthrough.
-	Add diolague
-	add radio dialague (COD or Battlefield likely candiates, search youtube for useable radio clips)
+	Add dialogue
+	add radio dialogue
 	Add voice lines
