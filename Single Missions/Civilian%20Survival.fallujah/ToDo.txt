@@ -1,0 +1,23 @@
+Bugs:
+	
+
+Development:
+	(done) Add militia and refugees to hotel. 
+	(workaround) Change altitude of waypoints of Independent Team Leader and Dragon soldiers
+	(done) Add opposition to compliment the Snipers at end.
+	Add signs of havoc on civilian population throughout.
+	(done) Add fleeing civilians?
+
+
+Minor Details:
+	(fail) Have Bonesetter display the patching wounds animation
+
+Finishing Touches:
+	(done) Add briefing
+	(done) Switch Waypoints for tasks
+	add more mortar effects
+	update ambient battle sounds to be louder and more hectic
+	Make Faiza and friends the same for every playthrough.
+	Add diolague
+	add radio dialague (COD or Battlefield likely candiates, search youtube for useable radio clips)
+	Add voice lines

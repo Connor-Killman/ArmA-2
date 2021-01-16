@@ -1,0 +1,13 @@
+class CfgMusic
+{
+	tracks[] = {};
+	class battlefield
+	{
+		// display name
+		name	= "battlefield";
+
+		// filename, volume, pitch
+		sound[]	= { "\music\battlefield.ogg", db + 3, 1.0 };
+	};
+	
+};
