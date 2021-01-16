@@ -6,6 +6,8 @@ Required mods:
 Optional mods:
   Deadfast's Stance Indicator by Deadfast. Can be found at https://www.armaholic.com/page.php?id=17476
 
+To use: Download and put these file into the missions file in your ArmA II profile. You can now select it from the editor.
+
 All files in this folder are made by me except for the "userconfig" folder which is made by Deadfast and provides support for his mod. The ambient battlefield sounds w
 ere complied from ArmA II sound files and stock sounds from ambient-mixer.com, and spliced together by me.
 
